@@ -1,4 +1,4 @@
-# SDG_AI_Machine
+
 # Solar Energy Potential Predictor
 
 ## Overview
@@ -172,4 +172,4 @@ Contributions are welcome! Please:
 - *Scikit-learn & XGBoost*: For robust machine learning tools.
 
 ## Contact
-For issues or inquiries, please open an issue on the GitHub repository or contact [your-email@example.com].
+For issues or inquiries, please open an issue on the GitHub repository or contact lathithavena3@gmail.com.
